@@ -1,2 +1,2 @@
-# airHelper
-Some standalone classes for Adobe AIR
+# as3-helper
+Some standalone classes for Adobe AIR (Actionscript 3)
